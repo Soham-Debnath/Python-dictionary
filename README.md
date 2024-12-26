@@ -1,1 +1,1 @@
-# This codes show Dictionary methods with example.
+# These codes show Dictionary methods with example.
